@@ -3,7 +3,6 @@ using namespace std;
 
 class MyClass
 {
-private:
     // Атрибути
     int id;
     int age;
